@@ -11,6 +11,7 @@
   inputs.src-nim_telegram_bot-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-nim_telegram_bot-0_3_0.owner = "juancarlospaco";
   inputs.src-nim_telegram_bot-0_3_0.repo  = "nim-telegram-bot";
+  inputs.src-nim_telegram_bot-0_3_0.dir   = "";
   inputs.src-nim_telegram_bot-0_3_0.type  = "github";
   
   inputs."openexchangerates".owner = "nim-nix-pkgs";
