@@ -11,7 +11,6 @@
   inputs.src-nim_telegram_bot-0_0_1.ref   = "refs/tags/0.0.1";
   inputs.src-nim_telegram_bot-0_0_1.owner = "juancarlospaco";
   inputs.src-nim_telegram_bot-0_0_1.repo  = "nim-telegram-bot";
-  inputs.src-nim_telegram_bot-0_0_1.dir   = "";
   inputs.src-nim_telegram_bot-0_0_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
